@@ -107,7 +107,7 @@ export default function KennBosakLandingPage() {
               className="group rounded-3xl border border-neutral-800 bg-neutral-900 p-6 transition hover:-translate-y-1 hover:border-green-500/40 hover:bg-neutral-900/90"
             >
               <h3 className="text-xl font-bold">{card.title}</h3>
-              <p className="mt-3 min-h-[110px] text-sm leading-6 text-neutral-400">{card.text}</p>
+              <p className="mt-3 min-h-27.5 text-sm leading-6 text-neutral-400">{card.text}</p>
               <div className="mt-6 inline-flex items-center font-semibold text-green-300 transition group-hover:text-green-200">
                 {card.cta} <span className="ml-2">→</span>
               </div>

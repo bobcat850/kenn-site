@@ -198,7 +198,7 @@ export default function VegasCreatorHousePage() {
       </section>
 
       <section className="mx-auto max-w-6xl px-6 py-16 md:py-20">
-        <div className="rounded-[2rem] border border-neutral-800 bg-gradient-to-br from-neutral-900 to-neutral-950 p-8 md:p-10">
+        <div className="rounded-4xl border border-neutral-800 bg-linear-to-br from-neutral-900 to-neutral-950 p-8 md:p-10">
           <div className="grid gap-8 md:grid-cols-[1.1fr_0.9fr] md:items-center">
             <div>
               <h2 className="text-3xl font-bold md:text-4xl">Let’s Make Vegas Memorable</h2>
