@@ -13,6 +13,12 @@ export default function KennBosakLandingPage() {
       href: "/vegas",
     },
     {
+      title: "BROAP",
+      text: "Blockchain Record Of Attendance Protocol for real Bro Bro's",
+      cta: "It's proof you showed up, Bro Bro",
+      href: "/BROAP",
+    },
+    {
       title: "Book Kenn / Partner Up",
       text: "Want to collaborate with Kenn, sponsor content, book an appearance, or host an interview? Let’s build something fun for the crypto community.",
       cta: "Get in Touch",
