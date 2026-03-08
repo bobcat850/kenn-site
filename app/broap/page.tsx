@@ -1,9 +1,3 @@
-"use client";
-
-import { useEffect, useMemo, useState } from "react";
-
-type MintPhase = "upcoming" | "live" | "archive" | "closed";
-
 export default function BROAPPage() {
   // Replace this with real data later from your DB / JSON / contract
   const broap = {

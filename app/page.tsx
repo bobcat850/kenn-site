@@ -13,12 +13,6 @@ export default function KennBosakLandingPage() {
       href: "/vegas",
     },
     {
-      title: "BROAP",
-      text: "Blockchain Record Of Attendance Protocol for real Bro Bro's",
-      cta: "It's proof you showed up, Bro Bro",
-      href: "/broap",
-    },
-    {
       title: "Book Kenn / Partner Up",
       text: "Want to collaborate with Kenn, sponsor content, book an appearance, or host an interview? Let’s build something fun for the crypto community.",
       cta: "Get in Touch",
@@ -105,7 +99,7 @@ export default function KennBosakLandingPage() {
             Support Kenn’s appearances, follow current campaigns, and see what projects and events are coming next.
           </p>
         </div>
-        <div className="grid gap-6 md:grid-cols-4">
+        <div className="grid gap-6 md:grid-cols-3">
           {cards.map((card) => (
             <a
               key={card.title}
